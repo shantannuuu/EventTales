@@ -33,8 +33,10 @@
      z-index: 999;
 }
 
-.navigation .logo{
+#navigation .logo{
 color:sandybrown;
+    font-weight:700;
+    font-size:30px
 }
 
 .navbar nav ul{
