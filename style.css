@@ -33,6 +33,8 @@
      z-index: 999;
 }
 
+.navbar .logo{
+color:sandybrown;
 
 .navbar nav ul{
     display: flex;
